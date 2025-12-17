@@ -6,6 +6,8 @@ It evaluates ingredients for **safety**, **comedogenicity**, **skin type compati
 
 Ideal for skincare enthusiasts, dermatologists, cosmetic formulators, and anyone wanting **data-driven decisions for skin health**.  
 
+#### NOTE:
+ #### Remember this project is only at the base level, if we want to use it production level, it needs lot of hard work for getting ingredient list and research also need to be done 
 ---
 
 ## Features
