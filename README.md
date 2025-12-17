@@ -95,6 +95,7 @@ streamlit run app.py
 Niacinamide, Hyaluronic Acid, Shea Butter, Coconut Oil, Retinol
 ```
 #### Output
+Here I need to mention one infoirmation about the **risk** and **Flagged ingredients**, whatevere you have done in your json file will be showing here , in my json file i have done it differently based on all skin types
 | Metric                    | Value                                                                                                                                                      |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Safety Score              | 78%                                                                                                                                                        |
